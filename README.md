@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi;Second+lines)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhxiao1124)
 
